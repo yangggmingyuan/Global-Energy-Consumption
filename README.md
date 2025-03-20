@@ -21,4 +21,7 @@ The dataset used for this analysis is **Global_Energy_Consumption.csv**, which c
 * (Energy Price Index (USD/kWh))Average energy price index
 
 ## key insights🔑:
-*Analyzed the distribution of 
+* 🚀Analyzed the distribution of Total Energy Consumption
+* 📈visualized the Top10 countries by Total Energy Consumption
+* 
+
