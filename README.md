@@ -29,9 +29,15 @@ The dataset used for this analysis is **Global_Energy_Consumption.csv**, which c
 * 🚀Identified the total records by each country.
 
 ## Visualizations📈:
-* Histogram
-* Linechart 📉
-* Heatmap 🚀
-* Histplot 🧑‍💻
-* Barchart 📊
+* Histogram :Shows the distribution of total energy consumptions.
+* Linechart 📉:displays the energy consumption trends over the year.
+* Heatmap 🚀:visualizes all numeric features and shows the correlation rate for each.
+* KDE plot🧑‍💻:Shows the distribution of total energy consumptions and a line of kernal density estimation(KDE).
+* Barchart 📊:Presents the top10 countries by energy consumption , top10 contries energy consumptions by per capital usage and number of records for each contries.
+
+##Technologies Used⚙️:
+🐍 Python (Pandas, Matplotlib, Seaborn)
+📓 Jupyter Notebook (The analysis is available in the [Global Energy Analysis.ipynb](Global_Energy_Consumption.ipynb))
+
+
 
