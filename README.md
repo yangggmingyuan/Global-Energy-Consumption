@@ -1,6 +1,6 @@
 # global enenrgy consumption📊📈
 
-## overview:
+## Overview:
 
 This project analyzes the global energy consumption dataset to drive the insights about relationships between year,country and other factors influencing energy consumption. Using Python and Jupyter Notebook, this analysis leverages libraries such as Pandas, Seaborn, and Matplotlib for data manipulation and visualization
 
@@ -20,7 +20,7 @@ The dataset used for this analysis is **Global_Energy_Consumption.csv**, which c
 * (Carbon Emissions (Million Tons)) Carbon emissions generated
 * (Energy Price Index (USD/kWh))Average energy price index
 
-## Key insights🔑:
+## Key Insights🔑:
 * 🚀Analyzed the distribution of Total Energy Consumption
 * 📈visualized the Top10 countries by Total Energy Consumption
 * 🔍Explored the correlations between each numeric features
