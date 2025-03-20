@@ -21,3 +21,4 @@ The dataset used for this analysis is **Global_Energy_Consumption.csv**, which c
 * (Energy Price Index (USD/kWh))Average energy price index
 
 ## key insights🔑:
+*Analyzed the distribution of 
