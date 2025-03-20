@@ -20,11 +20,18 @@ The dataset used for this analysis is **Global_Energy_Consumption.csv**, which c
 * (Carbon Emissions (Million Tons)) Carbon emissions generated
 * (Energy Price Index (USD/kWh))Average energy price index
 
-## key insights🔑:
+## Key insights🔑:
 * 🚀Analyzed the distribution of Total Energy Consumption
 * 📈visualized the Top10 countries by Total Energy Consumption
 * 🔍Explored the correlations between each numeric features
 * 🎮Investigated the total energy consumption trends over the year
 * 📈Visulized the total energy consumption by per capital energy consumption
 * 🚀Identified the total records by each country.
+
+## Visualizations📈:
+* Histogram
+* Linechart 📉
+* Heatmap 🚀
+* Histplot 🧑‍💻
+* Barchart 📊
 
