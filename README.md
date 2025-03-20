@@ -19,3 +19,5 @@ The dataset used for this analysis is **Global_Energy_Consumption.csv**, which c
 * (Household Energy Use (%)) Energy consumption by households
 * (Carbon Emissions (Million Tons)) Carbon emissions generated
 * (Energy Price Index (USD/kWh))Average energy price index
+
+## key insights🔑:
