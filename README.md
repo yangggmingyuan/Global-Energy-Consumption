@@ -9,4 +9,13 @@ The analysis is presented in the  [Global Energy Analysis.ipynb](Global_Energy_C
 ## Dataset📂:
 The dataset used for this analysis is.csv, which contains comperhensive insights into energy usage across different countries and sectors over the past two decades.It includs the information about:
 
-* Country
+* Country name (e.g., USA, China, India)
+* Year (2000-2024)
+* (Total Energy Consumption (TWh)) Total energy consumption in terawatt-hours
+* (Per Capita Energy Use (kWh)) Energy consumption per person
+* (Renewable Energy Share (%)) Percentage of renewable energy used
+* (Fossil Fuel Dependency (%)) Percentage of fossil fuel usage
+* (Industrial Energy Use (%)) Energy consumption by industries
+* (Household Energy Use (%)) Energy consumption by households
+* (Carbon Emissions (Million Tons)) Carbon emissions generated
+* (Energy Price Index (USD/kWh))Average energy price index
