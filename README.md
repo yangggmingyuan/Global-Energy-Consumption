@@ -36,8 +36,8 @@ The dataset used for this analysis is **Global_Energy_Consumption.csv**, which c
 * Barchart 📊:Presents the top10 countries by energy consumption , top10 contries energy consumptions by per capital usage and number of records for each contries.
 
 ##Technologies Used⚙️:
-🐍 Python (Pandas, Matplotlib, Seaborn)
-📓 Jupyter Notebook (The analysis is available in the [Global Energy Analysis.ipynb](Global_Energy_Consumption.ipynb))
+* 🐍 Python (Pandas, Matplotlib, Seaborn)
+* 📓 Jupyter Notebook (The analysis is available in the [Global Energy Analysis.ipynb](Global_Energy_Consumption.ipynb))
 
 
 
