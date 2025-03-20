@@ -7,7 +7,7 @@ This project analyzes the global energy consumption dataset to drive the insight
 The analysis is presented in the  [Global Energy Analysis.ipynb](Global_Energy_Consumption.ipynb)notebook, where you can follow along with the code and explore the visualizations.
 
 ## Dataset📂:
-The dataset used for this analysis is.csv, which contains comperhensive insights into energy usage across different countries and sectors over the past two decades.It includs the information about:
+The dataset used for this analysis is **Global_Energy_Consumption.csv**, which contains comperhensive insights into energy usage across different countries and sectors over the past two decades.It includs the information about:
 
 * Country name (e.g., USA, China, India)
 * Year (2000-2024)
